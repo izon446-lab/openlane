@@ -2,6 +2,8 @@
 
 **Open-source agent desk for small, verified PRs.**
 
+Public repo: https://github.com/izon446-lab/openlane
+
 One public-repo task at a time. Invent freely, verify strictly.
 
 ```
