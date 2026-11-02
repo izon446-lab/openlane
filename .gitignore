@@ -1,0 +1,9 @@
+.DS_Store
+*.tmp
+artifacts/fleet/*/
+!artifacts/fleet/.gitkeep
+evidence/*/
+!evidence/.gitkeep
+
+.secrets/
+
